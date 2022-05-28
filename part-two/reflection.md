@@ -13,6 +13,23 @@
 
 ## Reflection Part Two
 
-Date:
+Date: 28/05/2022
 
-Name:
+Name: Alake Mills
+
+** Technically no one pays for work that is available online for free, the owners of the work might have a way of making some money either **
+** by the traffic or views they get from the work they posted if they are using an Ad network like google Adsense **
+
+** Some ethical things to note is to always make reference to owners of previous work if you are taking ideas from them, also we need to **
+** avoid plagiarism **
+
+** No they do not provide the resources to get materials onto my pc**
+
+** There is no barrier in accessing the resources carlton makes available to me. **
+
+** As a digital historian digital history i can transform the ways that regular historians access information and the efficiency and **
+** financial benefits that digital history offer are difficult to ignore. **
+
+
+** We digital historians Use digital technologies and tools to publish our work, we present materials in new ways to various audiences, regular historians on the other hand usually publish the majority of their work through academic presses and publishing houses and this might not get to to the right audience on time.
+

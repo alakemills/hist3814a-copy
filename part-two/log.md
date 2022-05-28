@@ -10,24 +10,34 @@ Once you hit the 'commit' button, Github will embed the image. **nb** nothing sa
 
 ## Log for Part Two
 
-Date:
+Date: 28/05/2022
 
-Name:
+Name: Alake Mills
 
 Sequence That You Are Following:
 
-#### Name of Tutorial
+#### Name of Tutorial : Some Basic Counting and Plotting in R
 
 make your observations here
 
 **Things that challenged me:**
 
+> library("RCurl")
+Error in library("RCurl") : there is no package called ‘RCurl’
+
+** I was getting mutiple errors while running the R code **
+
+Error in getURL("https://raw.githubusercontent.com/shawngraham/exercise/gh-pages/CND.csv",  : 
+  could not find function "getURL"
+
+
+
 **Where I went for help:**
 
-#### Name of Tutorial
+ [How to use rcurl on windows](https://stackoverflow.com/questions/39627639/unable-to-use-rcurl-in-r-on-windows)
 
-make your observations here
+   ** I followed the instruction in the tutorials to resolve the getURL issue **
 
-**Things that challenged me:**
-
-**Where I went for help:**
+![Screenshot for Plot of the Cities](cities-plot.PNG)
+![Screenshot for error while running](error1.PNG)
+![Screenshot for output](r.PNG)

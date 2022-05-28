@@ -24,12 +24,5 @@ make your observations here
 One of the challenges i encountered was getting to know the keyword syntax to use, i have to try each of them and see what it outputs on the screen.
 
 **Where I went for help:**
-I search google to get more information about the markdown syntax, This link https://www.markdownguide.org/basic-syntax/ really help a lot.
+I search google to get more information about the markdown syntax, This link  [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) really help a lot.
 
-#### Name of Tutorial
-
-make your observations here
-
-**Things that challenged me:**
-
-**Where I went for help:**
