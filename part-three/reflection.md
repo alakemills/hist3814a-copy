@@ -11,6 +11,16 @@
 
 ## Reflection Part Three
 
-Date:
+Date:5th June 2022
 
-Name:
+Name: Alake Mills
+
+
+> Argumentation in digital history is not innately different from argumentation found in other forms of history. If you want to reach historians, write for historians. The signposting of historiography and/or historical context helps other historians to understand where your argument fits in the larger disciplinary conversations.
+
+> Digital history argumentation may be disciplinary or interdisciplinary depending on the intended audience. To reach an audience of historians, you need to make them care about your argument before explaining how you arrived at it digitally. Within the interdisciplinary digital humanities, we are often bound by common methods, rather than similar questions or content, and thus we start with methodological explanations. Among historians, however, the commonalities are disciplinary; historians want to know how digital history analysis relates to their field. If those arguments are not foregrounded, some historians may simply stop reading.
+
+
+### Alake Mills - Maps of Parks & Museums
+
+> <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PzSsjXjyDlYic4DUaaH7gAOcpgwAulI&ehbc=2E312F" width="640" height="480"></iframe>

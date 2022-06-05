@@ -10,13 +10,15 @@ Once you hit the 'commit' button, Github will embed the image. **nb** nothing sa
 
 ## Log for Part Three
 
-Date:
+Date: 5th of june 2022
 
-Name:
+Name: Alake Mills
 
 Sequence That You Are Following:
 
-#### Name of Tutorial
+#### Name of Tutorial:
+Newcomer Sequence
+
 
 make your observations here
 
