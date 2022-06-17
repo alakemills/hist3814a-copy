@@ -23,8 +23,20 @@ Newcomer Sequence
 make your observations here
 
 **Things that challenged me:**
+I got stuck while adding words to my voyant corpus stoplist, i could not go further. 
+
 
 **Where I went for help:**
+
+[How to use rcurl on windows](https://voyant-tools.org/docs/#!/guide/tutorial)
+
+** I followed the instruction in the voyant documentation, and i was able to add words to the stoplist **
+
+![Screenshot for my storymap](Screenshot.png)
+
+![Screenshot for my data visualization on voyant](cities-plot.PNG)
+
+![Screenshot for my voyant corpus](voyant-corpus.png)
 
 #### Name of Tutorial
 

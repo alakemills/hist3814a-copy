@@ -16,9 +16,23 @@ Date:5th June 2022
 Name: Alake Mills
 
 
-> Argumentation in digital history is not innately different from argumentation found in other forms of history. If you want to reach historians, write for historians. The signposting of historiography and/or historical context helps other historians to understand where your argument fits in the larger disciplinary conversations.
+> Argumentation in digital history is not innately different from argumentation found in other forms of history. If you want to reach historians, write for historians. The signposting of historiography and/or historical context helps other historians to understand where your argument fits in the larger disciplinary conversations. 
+> > - Michelle Moravec July, 2017
 
 > Digital history argumentation may be disciplinary or interdisciplinary depending on the intended audience. To reach an audience of historians, you need to make them care about your argument before explaining how you arrived at it digitally. Within the interdisciplinary digital humanities, we are often bound by common methods, rather than similar questions or content, and thus we start with methodological explanations. Among historians, however, the commonalities are disciplinary; historians want to know how digital history analysis relates to their field. If those arguments are not foregrounded, some historians may simply stop reading.
+> > - Michelle Moravec July, 2017 - Foreground argumentation
+
+
+The Quotes from Michele seems to address how we digital historians change the way history is analysed to ordinary historians, we have the ability to showcase and present argumentations digitally using the techniques and tools , this way the audience will be interested in learning about it.
+
+For myself, I find the some part of the tutorials challenging while using the tools of data manipulation, visualization, and publishing the results with graphs.
+
+While attempting the Digital Storytelling section I discovered that the Storymap.js platform presents an interesting way of showcasing our historical stories in a very easy way, the point map can easily be annotated with videos, text, inages. I was so intrigued while i was creating my story map.
+I also noticed it is very easy to share my historical story to the world with just a single link.
+
+The things i have done in part three gets me thinking Digital advancements makes it possible for us to access, share and display ideas far more and far more widely than at any other time in history.
+
+
 
 
 ### Alake Mills - Maps of Parks & Museums
